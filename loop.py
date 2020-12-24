@@ -8,5 +8,5 @@ l=list(eval(input()))
 #implementing the for loop
 for i in l:
     l.append(i+5)
-    print(i
+    print(i)
 #as you run these lines you will see that the value of i will increse ever time it get printed
